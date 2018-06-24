@@ -1,1 +1,1 @@
-# Camagru - first web project in Academy plus
+# Camagru - first web project at the Academy plus program
